@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateFileInSDCard", "CreateFileInSDCard\CreateFileInSDCard.csproj", "{674AA8D8-0EDB-4677-8E50-977704BEACE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveLoadPreferencies", "SaveLoadPreferencies\SaveLoadPreferencies.csproj", "{60D1B860-66D6-4D4F-AFFF-F4B37851CACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D1B860-66D6-4D4F-AFFF-F4B37851CACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D1B860-66D6-4D4F-AFFF-F4B37851CACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D1B860-66D6-4D4F-AFFF-F4B37851CACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D1B860-66D6-4D4F-AFFF-F4B37851CACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674AA8D8-0EDB-4677-8E50-977704BEACE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674AA8D8-0EDB-4677-8E50-977704BEACE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674AA8D8-0EDB-4677-8E50-977704BEACE3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{674AA8D8-0EDB-4677-8E50-977704BEACE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674AA8D8-0EDB-4677-8E50-977704BEACE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674AA8D8-0EDB-4677-8E50-977704BEACE3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CreateFileInSDCard\CreateFileInSDCard.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveLoadPreferencies\MainActivity.cs">
+    <Files>
+      <File FileName="CreateFileInSDCard\Activity1.cs" Line="14" Column="6" />
+      <File FileName="SaveLoadPreferencies\MainActivity.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Futumee\Aplikace\SourceCode\CreateFileInSDCard\SaveLoadPreferencies\MainActivity.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CreateFileInSDCard />
+</Properties>
